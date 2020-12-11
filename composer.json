@@ -2,7 +2,7 @@
     "name": "jaredguiles/sub-site-syndication",
     "description": "WordPress plugin pushing posts from parent site to child sites ",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.4"
     },
     "license": "GPL",
     "homepage": "https://github.com/jaredguiles/Sub-Site-Syndication",
