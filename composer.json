@@ -4,7 +4,7 @@
     "require": {
         "php": ">=7.4"
     },
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "homepage": "https://github.com/jaredguiles/Sub-Site-Syndication",
     "authors": [
         {
