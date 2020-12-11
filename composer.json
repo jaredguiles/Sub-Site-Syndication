@@ -1,0 +1,8 @@
+{
+    "name": "jaredguiles/sub-site-syndication",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
