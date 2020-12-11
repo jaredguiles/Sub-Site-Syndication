@@ -1,8 +1,17 @@
 {
     "name": "jaredguiles/sub-site-syndication",
-    "description": "A short description of what your package does",
+    "description": "WordPress plugin pushing posts from parent site to child sites ",
     "require": {
         "php": ">=7.4",
-        "another-vendor/package": "1.*"
-    }
+    },
+    "license": "GPL",
+    "homepage": "https://github.com/jaredguiles/Sub-Site-Syndication",
+    "authors": [
+        {
+            "name": "Jared A Guiles",
+            "email": "jared@jaredguiles.com",
+            "homepage": "https://jaredguiles.com",
+            "role": "Developer"
+        }
+    ]
 }
